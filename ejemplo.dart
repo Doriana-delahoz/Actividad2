@@ -27,4 +27,4 @@ class Mascota{
         print("Tipo: $tipo");
         print("Edad: $edad años");
     }
-}v
+}

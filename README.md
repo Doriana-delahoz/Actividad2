@@ -1,4 +1,5 @@
 # Actividad2
+
 ## Sobreescritura de metodos
  es cuando una clase hija reemplaza un metodo de la clase padre para realizar una accion diferente.
 
